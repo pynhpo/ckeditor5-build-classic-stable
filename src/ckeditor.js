@@ -61,7 +61,7 @@ ClassicEditor.builtinPlugins = [
 	PasteFromOffice,
 	Table,
 	TableToolbar,
-	Base64UploadAdapter
+	// Base64UploadAdapter
 ];
 
 // Editor configuration.
